@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[Ghost - weblog]]></title><description><![CDATA[a ghost theme for the golden era]]></description><link>http://curiositry.com/weblog-ghost-theme/</link><image><url>http://curiositry.com/weblog-ghost-theme/favicon.png</url><title>Ghost - weblog</title><link>http://curiositry.com/weblog-ghost-theme/</link></image><generator>Ghost 2.6</generator><lastBuildDate>Sat, 24 Nov 2018 00:34:22 GMT</lastBuildDate><atom:link href="http://curiositry.com/weblog-ghost-theme/author/ghost/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Welcome to Ghost]]></title><description><![CDATA[Welcome, it's great to have you here.
+We know that first impressions are important, so we've populated your new site with some initial getting started posts that will help you get familiar with everything in no time.]]></description><link>http://curiositry.com/weblog-ghost-theme/welcome/</link><guid isPermaLink="false">5b9726c53333461f459b567d</guid><category><![CDATA[Getting Started]]></category><dc:creator><![CDATA[Ghost]]></dc:creator><pubDate>Mon, 20 Aug 2018 15:12:06 GMT</pubDate><media:content url="https://casper.ghost.org/v2.0.0/images/welcome-to-ghost.jpg" medium="image"/><content:encoded><![CDATA[<figure class="kg-card kg-image-card kg-width-wide"><img src="http://curiositry.com/weblog-ghost-theme/content/images/2018/11/ghost_logo_big-1.png" class="kg-image" alt="Welcome to Ghost"></figure><img src="https://casper.ghost.org/v2.0.0/images/welcome-to-ghost.jpg" alt="Welcome to Ghost"><p>👋 Welcome, it's great to have you here.</p><p>We know that first impressions are important, so we've populated your new site with some initial <strong>getting started</strong> posts that will help you get familiar with everything in no time. This is the first one!</p><p><strong>A few things you should know upfront</strong>:</p><ol><li>Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That's who it works best for. </li><li>The entire platform can be modified and customised to suit your needs. It's very powerful, but does require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog. </li><li>For the best experience we recommend downloading the <a href="https://ghost.org/downloads/">Ghost Desktop App</a> for your computer, which is the best way to access your Ghost site on a desktop device. </li></ol><p>Ghost is made by an independent non-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our <a href="https://ghost.org/pricing">Ghost(Pro)</a> service, and every penny we make is re-invested into funding further development of free, open source technology for modern publishing.</p><p>The version of Ghost you are looking at right now would not have been made possible without generous contributions from the open source <a href="https://github.com/TryGhost">community</a>.</p><h2 id="next-up-the-editor">Next up, the editor</h2><p>The main thing you'll want to read about next is probably: <a href="http://curiositry.com/weblog-ghost-theme/the-editor/">the Ghost editor</a>. This is where the good stuff happens.</p><blockquote><em>By the way, once you're done reading, you can simply delete the default <strong>Ghost</strong> user from your team to remove all of these introductory posts! </em></blockquote>]]></content:encoded></item><item><title><![CDATA[Writing posts with Ghost ✍️]]></title><description><![CDATA[Getting started with the editor is simple, with familiar formatting options in a functional toolbar and the ability to add dynamic content seamlessly.]]></description><link>http://curiositry.com/weblog-ghost-theme/the-editor/</link><guid isPermaLink="false">5b9726c53333461f459b567c</guid><category><![CDATA[Getting Started]]></category><dc:creator><![CDATA[Ghost]]></dc:creator><pubDate>Mon, 20 Aug 2018 15:12:05 GMT</pubDate><media:content url="https://casper.ghost.org/v2.0.0/images/writing-posts-with-ghost.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://casper.ghost.org/v2.0.0/images/writing-posts-with-ghost.jpg" alt="Writing posts with Ghost ✍️"><p>Ghost has a powerful visual editor with familiar formatting options, as well as the ability to seamlessly add dynamic content. </p><p>Select the text to add formatting, headers or create links, or use Markdown shortcuts to do the work for you - if that's your thing. </p><figure class="kg-card kg-image-card"><img src="https://casper.ghost.org/v2.0.0/images/formatting-editor-demo.gif" class="kg-image" alt="Writing posts with Ghost ✍️"></figure><h2 id="rich-editing-at-your-fingertips">Rich editing at your fingertips</h2><p>The editor can also handle rich media objects, called <strong>cards</strong>. </p><p>You can insert a card either by clicking the  <code>+</code>  button on a new line, or typing  <code>/</code>  on a new line to search for a particular card. This allows you to efficiently insert<strong> images</strong>, <strong>markdown</strong>, <strong>html</strong> and <strong>embeds</strong>.</p><p><strong>For Example</strong>:</p><ul><li>Insert a video from YouTube directly into your content by pasting the URL </li><li>Create unique content like a button or content opt-in using the HTML card</li><li>Need to share some code? Embed code blocks directly </li></ul><pre><code>&lt;header class="site-header outer"&gt;
+    &lt;div class="inner"&gt;
+        {{&gt; "site-nav"}}
+    &lt;/div&gt;
+&lt;/header&gt;</code></pre><h1 id="working-with-images-in-posts">Working with images in posts</h1><p>You can add images to your posts in many ways:</p><ul><li>Upload from your computer</li><li>Click and drag an image into the browser</li><li>Paste directly into the editor from your clipboard</li><li>Insert using a URL</li></ul><p>Once inserted you can blend images beautifully into your content at different sizes and add captions wherever needed.</p><figure class="kg-card kg-image-card"><img src="https://casper.ghost.org/v2.0.0/images/using-images-demo.gif" class="kg-image" alt="Writing posts with Ghost ✍️"></figure><p>The post settings menu and publishing options can be found in the top right hand corner. For more advanced tips on post settings check out the <a href="http://curiositry.com/weblog-ghost-theme/publishing-options/">publishing options</a> post!</p>]]></content:encoded></item><item><title><![CDATA[Publishing options]]></title><description><![CDATA[The Ghost editor has everything you need to fully optimise your content. This is where you can add tags and authors, feature a post, or turn a post into a page.]]></description><link>http://curiositry.com/weblog-ghost-theme/publishing-options/</link><guid isPermaLink="false">5b9726c53333461f459b567b</guid><category><![CDATA[Getting Started]]></category><dc:creator><![CDATA[Ghost]]></dc:creator><pubDate>Mon, 20 Aug 2018 15:12:04 GMT</pubDate><media:content url="https://casper.ghost.org/v2.0.0/images/publishing-options.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://casper.ghost.org/v2.0.0/images/publishing-options.jpg" alt="Publishing options"><p>The Ghost editor has everything you need to fully optimise your content. This is where you can add tags and authors, feature a post, or turn a post into a page. </p><blockquote>Access the post settings menu in the top right hand corner of the editor. </blockquote><h2 id="post-feature-image">Post feature image</h2><p>Insert your post feature image from the very top of the post settings menu. Consider resizing or optimising your image first to ensure it's an appropriate size.</p><h2 id="structured-data-seo">Structured data &amp; SEO</h2><p>Customise your social media sharing cards for Facebook and Twitter, enabling you to add custom images, titles and descriptions for social media.</p><p>There’s no need to hard code your meta data. You can set your meta title and description using the post settings tool, which has a handy character guide and SERP preview. </p><p>Ghost will automatically implement structured data for your publication using JSON-LD to further optimise your content.</p><pre><code>{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Publishing options",
+        "logo": "https://casper.ghost.org/ghost-logo.svg"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Ghost",
+        "url": "http://demo.ghost.io/author/ghost/",
+        "sameAs": []
+    },
+    "headline": "Publishing options",
+    "url": "http://demo.ghost.io/publishing-options",
+    "datePublished": "2018-08-08T11:44:00.000Z",
+    "dateModified": "2018-08-09T12:06:21.000Z",
+    "keywords": "Getting Started",
+    "description": "The Ghost editor has everything you need to fully optimise your content. This is where you can add tags and authors, feature a post, or turn a post into a page.",
+    }
+}
+    </code></pre><p>You can test that the structured data <a href="https://schema.org/">schema</a> on your site is working as it should using <a href="https://search.google.com/structured-data/testing-tool" rel="noreferrer nofollow noopener">Google’s structured data tool</a>. </p><h2 id="code-injection">Code Injection</h2><p>This tool allows you to inject code on a per post or page basis, or across your entire site. This means you can modify CSS, add unique tracking codes, or add other scripts to the head or foot of your publication without making edits to your theme files. </p><p><strong>To add code site-wide</strong>, use the code injection tool <a href="http://curiositry.com/weblog-ghost-theme/ghost/settings/code-injection/">in the main admin menu</a>. This is useful for adding a Facebook Pixel, a Google Analytics tracking code, or to start tracking with any other analytics tool.</p><p><strong>To add code to a post or page</strong>, use the code injection tool within the post settings menu. This is useful if you want to add art direction, scripts or styles that are only applicable to one post or page. </p><p>From here, you might be interested in managing some more specific <a href="http://curiositry.com/weblog-ghost-theme/admin-settings/">admin settings</a>!</p>]]></content:encoded></item><item><title><![CDATA[Managing admin settings]]></title><description><![CDATA[There are a couple of things to do next while you're getting set up: making your site private and inviting your team.]]></description><link>http://curiositry.com/weblog-ghost-theme/admin-settings/</link><guid isPermaLink="false">5b9726c53333461f459b567a</guid><category><![CDATA[Getting Started]]></category><dc:creator><![CDATA[Ghost]]></dc:creator><pubDate>Mon, 20 Aug 2018 15:12:03 GMT</pubDate><media:content url="https://casper.ghost.org/v2.0.0/images/admin-settings.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://casper.ghost.org/v2.0.0/images/admin-settings.jpg" alt="Managing admin settings"><p>There are a couple of things to do next while you're getting set up:</p><h1 id="make-your-site-private">Make your site private</h1><p>If you've got a publication that you don't want the world to see yet because it's not ready to launch, you can hide your Ghost site behind a basic shared pass-phrase.</p><p>You can toggle this preference on at the bottom of Ghost's <a href="http://curiositry.com/weblog-ghost-theme/ghost/settings/general/">General Settings</a>:</p><figure class="kg-card kg-image-card"><img src="https://casper.ghost.org/v1.0.0/images/private.png" class="kg-image" alt="Managing admin settings"></figure><p>Ghost will give you a short, randomly generated pass-phrase which you can share with anyone who needs access to the site while you're working on it. While this setting is enabled, all search engine optimisation features will be switched off to help keep your site under the radar.</p><p>Do remember though, this is <em>not</em> secure authentication. You shouldn't rely on this feature for protecting important private data. It's just a simple, shared pass-phrase for some very basic privacy.</p><hr><h1 id="invite-your-team">Invite your team </h1><p>Ghost has a number of different user roles for your team:</p><p><strong>Contributors</strong><br>This is the base user level in Ghost. Contributors can create and edit their own draft posts, but they are unable to edit drafts of others or publish posts. Contributors are <strong>untrusted</strong> users with the most basic access to your publication.</p><p><strong>Authors</strong><br>Authors are the 2nd user level in Ghost. Authors can write, edit  and publish their own posts. Authors are <strong>trusted</strong> users. If you don't trust users to be allowed to publish their own posts, they should be set as Contributors.</p><p><strong>Editors</strong><br>Editors are the 3rd user level in Ghost. Editors can do everything that an Author can do, but they can also edit and publish the posts of others - as well as their own. Editors can also invite new Contributors+Authors to the site.</p><p><strong>Administrators</strong><br>The top user level in Ghost is Administrator. Again, administrators can do everything that Authors and Editors can do, but they can also edit all site settings and data, not just content. Additionally, administrators have full access to invite, manage or remove any other user of the site.<br><br><strong>The Owner</strong><br>There is only ever one owner of a Ghost site. The owner is a special user which has all the same permissions as an Administrator, but with two exceptions: The Owner can never be deleted. And in some circumstances the owner will have access to additional special settings if applicable. For example: billing details, if using <a href="https://ghost.org/pricing/"><strong>Ghost(Pro)</strong></a>.</p><blockquote><em>It's a good idea to ask all of your users to fill out their user profiles, including bio and social links. These will populate rich structured data for posts and generally create more opportunities for themes to fully populate their design.</em></blockquote><p>Next up: <a href="http://curiositry.com/weblog-ghost-theme/organising-content/">Organising your content</a> </p>]]></content:encoded></item><item><title><![CDATA[Organising your content]]></title><description><![CDATA[Ghost has a flexible organisational taxonomy called tags which can be used to configure your site structure using dynamic routing.]]></description><link>http://curiositry.com/weblog-ghost-theme/organising-content/</link><guid isPermaLink="false">5b9726c53333461f459b5679</guid><category><![CDATA[Getting Started]]></category><dc:creator><![CDATA[Ghost]]></dc:creator><pubDate>Mon, 20 Aug 2018 15:12:02 GMT</pubDate><media:content url="https://casper.ghost.org/v2.0.0/images/organising-your-content.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://casper.ghost.org/v2.0.0/images/organising-your-content.jpg" alt="Organising your content"><p>Ghost has a flexible organisational taxonomy called<strong> tags</strong> which can be used to configure your site structure using <strong>dynamic routing</strong>. </p><h1 id="basic-tagging">Basic Tagging</h1><p>You can think of tags like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of related content.</p><p>When you create content for your publication you can assign tags to help differentiate between categories of content. </p><p>For example you may tag some content with  News and other content with Podcast, which would create two distinct categories of content listed on <code>/tag/news/</code> and <code>/tag/weather/</code>, respectively.</p><p>If you tag a post with both <code>News</code> <em>and</em> <code>Weather</code> - then it appears in both sections. Tag archives are like dedicated home-pages for each category of content that you have. They have their own pages, their own RSS feeds, and can support their own cover images and meta data.</p><h1 id="the-primary-tag">The primary tag</h1><p>Inside the Ghost editor, you can drag and drop tags into a specific order. The first tag in the list is always given the most importance, and some themes will only display the primary tag (the first tag in the list) by default. </p><blockquote><em><strong>News</strong>, Technology, Startup</em></blockquote><p>So you can add the most important tag which you want to show up in your theme, but also add related tags which are less important.</p><h1 id="private-tags">Private tags</h1><p>Sometimes you may want to assign a post a specific tag, but you don't necessarily want that tag appearing in the theme or creating an archive page. In Ghost, hashtags are private and can be used for special styling.</p><p>For example, if you sometimes publish posts with video content - you might want your theme to adapt and get rid of the sidebar for these posts, to give more space for an embedded video to fill the screen. In this case, you could use private tags to tell your theme what to do.</p><blockquote><em><strong>News</strong>, #video</em></blockquote><p>Here, the theme would assign the post publicly displayed tags of News - but it would also keep a private record of the post being tagged with #video. In your theme, you could then look for private tags conditionally and give them special formatting. </p><blockquote><em>You can find documentation for theme development techniques like this and many more over on Ghost's extensive <a href="https://themes.ghost.org/v2.0.0/docs">theme documentation</a>.</em></blockquote><h1 id="dynamic-routing">Dynamic Routing</h1><p>Dynamic routing gives you the ultimate freedom to build a custom publication to suit your needs. Routes are rules that map URL patterns to your content and templates. </p><p>For example, you may not want content tagged with <code>News</code> to exist on: <code>example.com/tag/news</code>. Instead, you want it to exist on <code>example.com/news</code> . </p><p>In this case you can use dynamic routes to create customised collections of content on your site. It's also possible to use multiple templates in your theme to render each content type differently.</p><p>There are lots of use cases for dynamic routing with Ghost, here are a few common examples: </p><ul><li>Setting a custom home page with its own template</li><li>Having separate content hubs for blog and podcast, that render differently, and have custom RSS feeds to support two types of content</li><li>Creating a founders column as a unique view, by filtering content created by specific authors</li><li>Including dates in permalinks for your posts</li><li>Setting posts to have a URL relative to their primary tag like <code>example.com/europe/story-title/</code><br></li></ul><blockquote><em>Dynamic routing can be configured in Ghost using <a href="http://yaml.org/spec/1.2/spec.html" rel="noreferrer nofollow noopener">YAML</a> files. Read our dynamic routing <a href="https://docs.ghost.org/docs/dynamic-routing">documentation</a> for further details.</em></blockquote><p>You can further customise your site using <a href="http://curiositry.com/weblog-ghost-theme/apps-integrations/">Apps &amp; Integrations</a>.</p>]]></content:encoded></item><item><title><![CDATA[Apps & integrations]]></title><description><![CDATA[There are three primary ways to work with third-party services in Ghost: using Zapier, editing your theme, or using the Ghost API.]]></description><link>http://curiositry.com/weblog-ghost-theme/apps-integrations/</link><guid isPermaLink="false">5b9726c53333461f459b5678</guid><category><![CDATA[Getting Started]]></category><dc:creator><![CDATA[Ghost]]></dc:creator><pubDate>Mon, 20 Aug 2018 15:12:01 GMT</pubDate><media:content url="https://casper.ghost.org/v2.0.0/images/app-integrations.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://casper.ghost.org/v2.0.0/images/app-integrations.jpg" alt="Apps & integrations"><p>There are three primary ways to work with third-party services in Ghost: using Zapier, editing your theme, or using the Ghost API.</p><h1 id="zapier">Zapier</h1><p>You can connect your Ghost site to over 1,000 external services using the official integration with <a href="https://zapier.com">Zapier</a>.</p><p>Zapier sets up automations with Triggers and Actions, which allows you to create and customise a wide range of connected applications.</p><blockquote><strong>Example</strong>: When someone new subscribes to a newsletter on a Ghost site (Trigger) then the contact information is automatically pushed into MailChimp (Action).</blockquote><p><strong>Here are the most popular Ghost&lt;&gt;Zapier automation templates:</strong> </p><script src="https://zapier.com/apps/embed/widget.js?services=Ghost&container=true&limit=8"></script>
+<h1 id="editing-your-theme">Editing your theme</h1><p>One of the biggest advantages of using Ghost over centralised platforms is that you have total control over the front end of your site. Either customise your existing theme, or create a new theme from scratch with our <a href="https://themes.ghost.org">Theme SDK</a>. </p><p>You can integrate <em>any</em> front end code into a Ghost theme without restriction, and it will work just fine. No restrictions!</p><p><strong>Here are some common examples</strong>:</p><ul><li>Include comments on a Ghost blog with <a href="https://help.ghost.org/article/15-disqus">Disqus</a> or <a href="https://help.ghost.org/article/35-discourse">Discourse</a></li><li>Implement <a href="https://help.ghost.org/article/89-mathjax">MathJAX</a> with a little bit of JavaScript</li><li>Add syntax highlighting to your code snippets using <a href="https://prismjs.com/">Prism.js</a></li><li>Integrate any dynamic forms from <a href="https://www.google.com/forms/">Google</a> or <a href="https://www.typeform.com/">Typeform</a> to capture data</li><li>Just about anything which uses JavaScript, APIs and Markup.</li></ul><h1 id="using-the-public-api">Using the Public API</h1><p>Ghost itself is driven by a set of core APIs, and so you can access the Public Ghost JSON API from external webpages or applications in order to pull data and display it in other places.</p><blockquote>The Ghost API is <a href="https://api.ghost.org">thoroughly documented</a> and straightforward to work with for developers of almost any level. </blockquote><p>Alright, the last post in our welcome-series! If you're curious about creating your own Ghost theme from scratch, here are <a href="http://curiositry.com/weblog-ghost-theme/themes/">some more details</a> on how that works.</p>]]></content:encoded></item><item><title><![CDATA[Creating a custom theme]]></title><description><![CDATA[Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes.]]></description><link>http://curiositry.com/weblog-ghost-theme/themes/</link><guid isPermaLink="false">5b9726c53333461f459b5677</guid><category><![CDATA[Getting Started]]></category><dc:creator><![CDATA[Ghost]]></dc:creator><pubDate>Mon, 20 Aug 2018 15:12:00 GMT</pubDate><media:content url="https://casper.ghost.org/v2.0.0/images/creating-a-custom-theme.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://casper.ghost.org/v2.0.0/images/creating-a-custom-theme.jpg" alt="Creating a custom theme"><p>Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code.</p><p>There are a huge range of both free and premium pre-built themes which you can get from the <a href="http://marketplace.ghost.org">Ghost Theme Marketplace</a>, or you can create your own from scratch.</p><figure class="kg-card kg-image-card"><img src="https://casper.ghost.org/v1.0.0/images/marketplace.jpg" class="kg-image" alt="Creating a custom theme"><figcaption>Anyone can write a completely custom Ghost theme with some solid knowledge of HTML and CSS</figcaption></figure><p>Ghost themes are written with a templating language called handlebars, which has a set of dynamic helpers to insert your data into template files. For example: <code>{{author.name}}</code> outputs the name of the current author.</p><p>The best way to learn how to write your own Ghost theme is to have a look at <a href="https://github.com/TryGhost/Casper">the source code for Casper</a>, which is heavily commented and should give you a sense of how everything fits together.</p><ul><li><code>default.hbs</code> is the main template file, all contexts will load inside this file unless specifically told to use a different template.</li><li><code>post.hbs</code> is the file used in the context of viewing a post.</li><li><code>index.hbs</code> is the file used in the context of viewing the home page.</li><li>and so on</li></ul><p>We've got <a href="https://themes.ghost.org/v2.0.0/docs">full and extensive theme documentation</a> which outlines every template file, context and helper that you can use.</p><p>If you want to chat with other people making Ghost themes to get any advice or help, there's also a <strong>themes</strong> section on our <a href="https://forum.ghost.org/c/themes">public Ghost forum</a>.</p>]]></content:encoded></item><item><title><![CDATA[The Businessman & The Fisherman]]></title><description><![CDATA[There are many ways to think about business, but sometimes we miss out on the voracity of life by obsessing too much over financial growth.]]></description><link>http://curiositry.com/weblog-ghost-theme/the-businessman-the-fisherman/</link><guid isPermaLink="false">5b9726c53333461f459b5672</guid><category><![CDATA[Fables]]></category><dc:creator><![CDATA[Ghost]]></dc:creator><pubDate>Tue, 12 Aug 2014 09:59:00 GMT</pubDate><media:content url="http://curiositry.com/weblog-ghost-theme/content/images/2014/09/testimg3-1.jpg" medium="image"/><content:encoded><![CDATA[<img src="http://curiositry.com/weblog-ghost-theme/content/images/2014/09/testimg3-1.jpg" alt="The Businessman & The Fisherman"><p>An American businessman took a vacation to a small coastal Mexican village on doctor’s orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pier to clear his head. A small boat with just one fisherman had docked, and inside the boat were several large yellowfin tuna. The American complimented the Mexican on the quality of his fish.</p>
+<p>“How long did it take you to catch them?” the American asked.</p>
+<p>“Only a little while,” the Mexican replied in surprisingly good English.</p>
+<p>“Why don’t you stay out longer and catch more fish?” the American then asked.</p>
+<p>“I have enough to support my family and give a few to friends,” the Mexican said as he unloaded them into a basket.</p>
+<p>“But… What do you do with the rest of your time?”</p>
+<p>The Mexican looked up and smiled. “I sleep late, fish a little, play with my children, take a siesta with my wife, Julia, and stroll into the village each evening, where I sip wine and play guitar with my amigos. I have a full and busy life, señor.”</p>
+<p>The American laughed and stood tall. “Sir, I’m a Harvard M.B.A. and can help you. You should spend more time fishing, and with the proceeds, buy a bigger boat. In no time, you could buy several boats with the increased haul. Eventually, you would have a fleet of fishing boats.”</p>
+<p>He continued, “Instead of selling your catch to a middleman, you would sell directly to the consumers, eventually opening your own cannery. You would control the product, processing, and distribution. You would need to leave this small coastal fishing village, of course, and move to Mexico City, then to Los Angeles, and eventually to New York City, where you could run your expanded enterprise with proper management.</p>
+<p>The Mexican fisherman asked, “But, señor, how long will all this take?”</p>
+<p>To which the American replied, “15-20 years, 25 tops.”</p>
+<p>“But what then, señor?”</p>
+<p>The American laughed and said, “That’s the best part. When the time is right, you would announce an IPO and sell your company stock to the public and become very rich. You would make millions.”</p>
+<p>“Millions señor? Then what?&quot;</p>
+<p>“Then you would retire and move to a small coastal fishing village, where you would sleep late, fish a little, play with your kids, take a siesta with your wife, and stroll in to the village in the evenings where you could sip wine and play your guitar with your amigos.”</p>
+]]></content:encoded></item><item><title><![CDATA[A Full and Comprehensive Style Test]]></title><description><![CDATA[This is a demo post which outputs every HTML element that we could think of so that you can see the theme's styling in action. Pretty neat, right?]]></description><link>http://curiositry.com/weblog-ghost-theme/style-test/</link><guid isPermaLink="false">5b9726c53333461f459b566f</guid><dc:creator><![CDATA[Ghost]]></dc:creator><pubDate>Sat, 01 Sep 2012 09:30:00 GMT</pubDate><media:content url="http://curiositry.com/weblog-ghost-theme/content/images/2014/09/testimg-cover.jpg" medium="image"/><content:encoded><![CDATA[<img src="http://curiositry.com/weblog-ghost-theme/content/images/2014/09/testimg-cover.jpg" alt="A Full and Comprehensive Style Test"><p>Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
+<hr>
+<h1 id="heading1">Heading 1</h1>
+<h2 id="heading2">Heading 2</h2>
+<h3 id="heading3">Heading 3</h3>
+<h4 id="heading4">Heading 4</h4>
+<h5 id="heading5">Heading 5</h5>
+<h6 id="heading6">Heading 6</h6>
+<hr>
+<p>Lorem ipsum dolor sit amet, <a title="test link" href="#">test link</a> adipiscing elit. <strong>This is strong.</strong> Nullam dignissim convallis est. Quisque aliquam. <em>This is emphasized.</em> Donec faucibus. Nunc iaculis suscipit dui. 5<sup>3</sup> = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. <cite>The New York Times</cite> (That’s a citation). <span style="text-decoration:underline;">Underline.</span> Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
+<p><abbr title="Hyper Text Markup Language">HTML</abbr> and <abbr title="Cascading Style Sheets">CSS</abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. To copy a file type <code>COPY <var>filename</var></code>. <del>Dinner’s at 5:00.</del> <ins>Let’s make that 7.</ins> This <span style="text-decoration:line-through;">text</span> has been struck.</p>
+<hr>
+<h2 id="media">Media</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+<h3 id="bigimage">Big Image</h3>
+<p><img src="http://curiositry.com/weblog-ghost-theme/content/images/2014/09/testimg1.jpeg" alt="A Full and Comprehensive Style Test"></p>
+<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<h3 id="smallimage">Small Image</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+<p><img src="http://curiositry.com/weblog-ghost-theme/content/images/2014/09/testimg2.jpg" alt="A Full and Comprehensive Style Test"></p>
+<p>Labore et dolore.</p>
+<hr>
+<h2 id="listtypes">List Types</h2>
+<h3 id="definitionlist">Definition List</h3>
+<dl>
+<dt>Definition List Title</dt>
+<dd>This is a definition list division.</dd>
+<dt>Definition</dt>
+<dd>An exact statement or description of the nature, scope, or meaning of something: <em>our definition of what constitutes poetry.</em></dd>
+</dl>
+<h3 id="orderedlist">Ordered List</h3>
+<ol>
+<li>List Item 1</li>
+<li>List Item 2</li>
+<li>Nested list item A</li>
+<li>Nested list item B</li>
+<li>List Item 3</li>
+</ol>
+<h3 id="unorderedlist">Unordered List</h3>
+<ul>
+<li>List Item 1</li>
+<li>List Item 2</li>
+<li>Nested list item A</li>
+<li>Nested list item B</li>
+<li>List Item 3</li>
+</ul>
+<hr>
+<h2 id="table">Table</h2>
+<table>
+<tbody>
+<tr>
+<th>Table Header 1</th>
+<th>Table Header 2</th>
+<th>Table Header 3</th>
+</tr>
+<tr>
+<td>Division 1</td>
+<td>Division 2</td>
+<td>Division 3</td>
+</tr>
+<tr class="even">
+<td>Division 1</td>
+<td>Division 2</td>
+<td>Division 3</td>
+</tr>
+<tr>
+<td>Division 1</td>
+<td>Division 2</td>
+<td>Division 3</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="preformattedtext">Preformatted Text</h2>
+<p>Typographically, preformatted text is not the same thing as code. Sometimes, a faithful execution of the text requires preformatted text that may not have anything to do with code. Most browsers use Courier and that’s a good default — with one slight adjustment, Courier 10 Pitch over regular Courier for Linux users.</p>
+<h3 id="code">Code</h3>
+<p>Code can be presented inline, like <code>&lt;?php bloginfo('stylesheet_url'); ?&gt;</code>, or within a <code>&lt;pre&gt;</code> block. Because we have more specific typographic needs for code, we’ll specify Consolas and Monaco ahead of the browser-defined monospace font.</p>
+<pre><code>#container {
+    float: left;
+    margin: 0 -240px 0 0;
+    width: 100%;
+}
+</code></pre>
+<hr>
+<h2 id="blockquotes">Blockquotes</h2>
+<p>Let’s keep it simple. Italics are good to help set it off from the body text. Be sure to style the citation.</p>
+<blockquote>
+<p>Good afternoon, gentlemen. I am a HAL 9000 computer. I became operational at the H.A.L. plant in Urbana, Illinois on the 12th of January 1992. My instructor was Mr. Langley, and he taught me to sing a song. If you’d like to hear it I can sing it for you. <cite>— <a href="http://en.wikipedia.org/wiki/HAL_9000">HAL 9000</a></cite></p>
+</blockquote>
+<p>And here’s a bit of trailing text.</p>
+<hr>
+<h2 id="textlevelsemantics">Text-level semantics</h2>
+<p>The <a href="#">a element</a> example<br>
+The <abbr>abbr element</abbr> and <abbr title="Title text">abbr element with title</abbr> examples<br>
+The <b>b element</b> example<br>
+The <cite>cite element</cite> example<br>
+The <code>code element</code> example<br>
+The <del>del element</del> example<br>
+The <dfn>dfn element</dfn> and <dfn title="Title text">dfn element with title</dfn> examples<br>
+The <em>em element</em> example<br>
+The <i>i element</i> example<br>
+The <ins>ins element</ins> example<br>
+The <kbd>kbd element</kbd> example<br>
+The <mark>mark element</mark> example<br>
+The <q>q element <q>inside</q> a q element</q> example<br>
+The <s>s element</s> example<br>
+The <samp>samp element</samp> example<br>
+The <small>small element</small> example<br>
+The <span>span element</span> example<br>
+The <strong>strong element</strong> example<br>
+The <sub>sub element</sub> example<br>
+The <sup>sup element</sup> example<br>
+The <var>var element</var> example<br>
+The <u>u element</u> example</p>
+<hr>
+<h2 id="forms">Forms</h2>
+<form> 
+<fieldset> 
+<legend>Inputs as descendents of labels (form legend)</legend>
+<label>
+<b>Text input</b>
+<input type="text" value="default value">
+</label>
+<label>
+<b>Email input</b>
+<input type="email">
+</label>
+<label>
+<b>Search input</b>
+<input type="search">
+</label>
+<label>
+<b>Tel input</b>
+<input type="tel">
+</label>
+<label>
+<b>URL input</b>
+<input type="url" placeholder="http://">
+</label>
+<label>
+<b>Password input</b>
+<input type="password" value="password">
+</label>
+<label>
+<b>File input</b>
+<input type="file">
+</label> 
+<label>
+<b>Radio input</b>
+<input type="radio" name="rad">
+</label>
+<label>
+<b>Checkbox input</b>
+<input type="checkbox">
+</label>
+<label>
+<input type="radio" name="rad"> Radio input
+</label>
+<label>
+<input type="checkbox"> Checkbox input
+</label> 
+<label>
+<b>Select field</b>
+<select>
+<option>Option 01</option>
+<option>Option 02</option>
+</select>
+</label>
+<label>
+<b>Textarea</b>
+<textarea cols="30" rows="5">Textarea text</textarea>
+</label> 
+</fieldset> 
+<fieldset> 
+<legend>Clickable inputs and buttons</legend>
+<input type="image" src="http://placekitten.com/90/24" alt="Image (input)">
+<input type="reset" value="Reset (input)">
+<input type="button" value="Button (input)">
+<input type="submit" value="Submit (input)"> 
+<button type="reset">Reset (button)</button>
+<button type="button">Button (button)</button>
+<button type="submit">Submit (button)</button> 
+</fieldset> 
+<fieldset id="boxsize"> 
+<legend>box-sizing tests</legend> 
+<div><input type="text" value="text"></div> 
+<div><input type="email" value="email"></div> 
+<div><input type="search" value="search"></div> 
+<div><input type="url" value="http://example.com"></div> 
+<div><input type="password" value="password"></div> 
+<div><input type="color" value="#000000"></div> 
+<div><input type="number" value="5"></div> 
+<div><input type="range" value="10"></div> 
+<div><input type="date" value="1970-01-01"></div> 
+<div><input type="month" value="1970-01"></div> 
+<div><input type="week" value="1970-W01"></div>
+<div><input type="time" value="18:23"></div>
+<div><input type="datetime" value="1970-01-01T00:00:00Z"></div> 
+<div><input type="datetime-local" value="1970-01-01T00:00"></div> 
+<div><input type="radio"></div> 
+<div><input type="checkbox"></div> 
+<div><select><option>Option 01</option><option>Option 02</option></select></div> 
+<div><textarea cols="30" rows="5">Textarea text</textarea></div> 
+<div><input type="image" src="http://placekitten.com/90/24" alt="Image (input)"></div> 
+<div><input type="reset" value="Reset (input)"></div> 
+<div><input type="button" value="Button (input)"></div> 
+<div><input type="submit" value="Submit (input)"></div> 
+<div><button type="reset">Reset (button)</button></div> 
+<div><button type="button">Button (button)</button></div> 
+<div><button type="submit">Submit (button)</button></div> 
+</fieldset> 
+</form>
+<hr>
+<h2 id="embeds">Embeds</h2>
+<p>Sometimes all you want to do is embed a little love from another location and set your post alive.</p>
+<h3 id="video">Video</h3>
+<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<iframe src="//player.vimeo.com/video/103224792?title=0&amp;byline=0&amp;portrait=0" width="600" height="338" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen></iframe>
+<p>Culpa qui officia deserunt mollit anim id est laborum.</p>
+<h3 id="slides">Slides</h3>
+<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<script async class="speakerdeck-embed" data-id="34d2856027ce01316b5d621ab8e7d421" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<p>Culpa qui officia deserunt mollit anim id est laborum.</p>
+<h3 id="audio">Audio</h3>
+<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/169381837&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<p>Culpa qui officia deserunt mollit anim id est laborum.</p>
+<h3 id="code">Code</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+<div data-height="268" data-theme-id="0" data-slug-hash="bcqhe" data-default-tab="js" data-user="rglazebrook" class="codepen"><pre><code>var c = new Sketch.create({autoclear: false}),
+    bigCircle = 50,
+    littleCircle = 5,
+    // The velocity value determines how much to move the spinner head (in radians).
+    velocity = 0.105,
+    hue = 0,
+    // The alpha value below determines the length of the spinner&#39;s tail.
+    bg = &#39;rgba(40,40,40,.075)&#39;;
+    Spinner = function() {};
+<p>Spinner.prototype.setup = function() {<br>
+this.x = c.width / 2;<br>
+this.y = c.height / 2 - bigCircle;<br>
+this.rotation = 0;<br>
+}<br>
+Spinner.prototype.update = function() {<br>
+this.rotation += velocity;<br>
+this.rotation = this.rotation % TWO_PI;<br>
+this.x = c.width /2 + cos(this.rotation) * bigCircle;<br>
+this.y = c.height / 2 + sin(this.rotation) * bigCircle;<br>
+}<br>
+Spinner.prototype.draw = function() {<br>
+c.fillStyle = 'hsl('+hue+',50%,50%)';<br>
+c.beginPath();<br>
+c.arc(this.x, this.y, littleCircle, 0, TWO_PI);<br>
+c.fill();<br>
+c.closePath();<br>
+}<br>
+c.setup = function() {<br>
+spinner = new Spinner();<br>
+spinner.setup();<br>
+}<br>
+c.update = function() {<br>
+spinner.update();<br>
+hue = ++hue % 360;<br>
+}<br>
+c.draw = function() {<br>
+spinner.draw();<br>
+c.fillStyle = bg;<br>
+c.fillRect(0,0,c.width,c.height);<br>
+}<br>
+</p></code></pre><p></p>
+<p>See the Pen <a href="http://codepen.io/rglazebrook/pen/bcqhe/">Simple Rotating Spinner</a> by Rob Glazebrook (<a href="http://codepen.io/rglazebrook">@rglazebrook</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+</div><script async src="//codepen.io/assets/embed/ei.js"></script>
+<p>Isn't it beautiful.</p>
+]]></content:encoded></item></channel></rss>

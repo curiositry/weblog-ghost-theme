@@ -1,5 +1,5 @@
 (function () {
-        var apiUrl = '//localhost:2369/ghost/api/v0.1/',
+        var apiUrl = '//curiositry.com/weblog-ghost-theme/ghost/api/v0.1/',
         clientId,
         clientSecret,
         url,

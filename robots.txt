@@ -1,4 +1,4 @@
 User-agent: *
-Sitemap: http://localhost:2369/sitemap.xml
+Sitemap: http://curiositry.com/weblog-ghost-theme/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/

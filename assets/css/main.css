@@ -1,7 +1,9 @@
 :root {
+  /* Pure CSS variables */
   --container-width: 800px;
   --mono-font-stack: "Consolas", monospace;
   --font-stack: var(--mono-font-stack);
+  /* Fallbacks should be provided, of course */
 }
 
 body {
@@ -26,6 +28,7 @@ figure {
 }
 
 figcaption {
+  text-align: center;
   font-size: 0.75rem;
 }
 
@@ -82,11 +85,6 @@ Docs can be found here: http://themes.ghost.org/docs/ghost-editor#section-galler
 The implementation that Ghost recommends is pretty robust, with one caveat: it needs a few lines of JavaScrpt. Example can be found here:
 https://github.com/TryGhost/Casper/pull/475/files#diff-ce5e030f2e2e2a50f18199464f07ea70
 */
-
-
-figcaption {
-  text-align: center;
-}
 
 .inline-block {
   display: inline-block;
